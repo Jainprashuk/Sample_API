@@ -1389,7 +1389,7 @@ const Consolidateddata = {
         ]
     },
     "overall_sales_all": {
-        "overall_purchases": [
+        "overallsales": [
             {
                 "counterparty_pan": "AAACC5292M",
                 "tradename": "CARRARO INDIA LIMITED",
