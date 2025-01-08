@@ -437,7 +437,7 @@ const Consolidateddata = {
             "previous_invoices": 1,
             "invoice_increase_%": -100.0
         }
-    ]
+    ],
     "state_wise_sales": [
         {
             "state_name": "Jharkhand",
@@ -475,7 +475,7 @@ const Consolidateddata = {
             "previous_invoices": 1,
             "invoice_increase_%": -100.0
         }
-    ]
+    ],
     "entitywise_purchases": [
         {
             "entity_type": "Association of Persons (AOP)",
