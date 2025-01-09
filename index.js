@@ -532,12 +532,12 @@ const Consolidateddata = {
         {
             "insight_category": "Financials",
             "last_run_date": "2025-01-07",
-            "formatted_response": ""
+            "formatted_response": "description one"
         },
         {
             "insight_category": "Monthly numbers",
             "last_run_date": "2025-01-07",
-            "formatted_response": ""
+            "formatted_response": "Et galisum dolor aut harum asperiores et amet consequatur? Ut suscipit eaque qui voluptatem sint qui rerum dicta qui perspiciatis molestiae ut totam repellendus est aperiam doloribus a voluptatibus voluptas!"
         },
         {
             "insight_category": "Seasonality",
